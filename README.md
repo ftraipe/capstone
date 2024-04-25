@@ -1,5 +1,5 @@
-# capstone
+# Capstone
 
-## Editandors
+## Editing
 
-Vamos a ingresar algo de texto para iniciar este capstone
+This writing is for testing only
